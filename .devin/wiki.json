@@ -1,0 +1,125 @@
+{
+  "repo_notes": [
+    {
+      "content": ""
+    }
+  ],
+  "pages": [
+    {
+      "title": "Inicio",
+      "purpose": "Presenta el repositorio ExampleGithubActions, explica su propósito como ejemplo/plantilla de GitHub Actions y ofrece una descripción general de alto nivel de su contenido.",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Repository Structure",
+      "purpose": "Document the file system organization of the repository, explaining the .github/workflows directory convention and the location of Example.yml",
+      "parent": "Home",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "GitHub Actions Fundamentals",
+      "purpose": "Provide foundational knowledge about GitHub Actions as an automation platform, explaining core concepts necessary to understand the Example.yml workflow file",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Workflow Files and YAML Structure",
+      "purpose": "Explain what workflow YAML files are, their syntax, and the standard structure of a GitHub Actions workflow definition",
+      "parent": "GitHub Actions Fundamentals",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Triggers and Events",
+      "purpose": "Document the various events that can trigger workflows (push, pull_request, workflow_dispatch, schedule, etc.) and how to configure them",
+      "parent": "GitHub Actions Fundamentals",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Jobs, Steps, and Runners",
+      "purpose": "Explain the execution model of GitHub Actions including the hierarchy of jobs and steps, and the role of runners in executing workflows",
+      "parent": "GitHub Actions Fundamentals",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "The Example.yml Workflow",
+      "purpose": "Provide detailed documentation of the Example.yml file, its current empty state, and its intended role in the repository",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Current State and File Analysis",
+      "purpose": "Document the current contents (or lack thereof) of Example.yml, explaining why it's empty and what this means for the repository",
+      "parent": "The Example.yml Workflow",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Workflow Configuration Reference",
+      "purpose": "Provide a comprehensive reference for the workflow configuration options that could be added to Example.yml, including all standard YAML keys and their purposes",
+      "parent": "The Example.yml Workflow",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Usage and Extension Guide",
+      "purpose": "Provide practical guidance for developers on how to use this repository as a starting point and extend Example.yml with actual workflow definitions",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Creating Your First Workflow",
+      "purpose": "Step-by-step tutorial showing how to populate Example.yml with a basic workflow definition, from defining triggers to adding jobs and steps",
+      "parent": "Usage and Extension Guide",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Common Workflow Patterns",
+      "purpose": "Document common CI/CD patterns and example configurations that can be implemented using Example.yml, including testing, building, and deployment workflows",
+      "parent": "Usage and Extension Guide",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    }
+  ]
+}
